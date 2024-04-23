@@ -1,8 +1,8 @@
-[Woof Software](http://woof.software/) 
+[Woof Software](http://woof.software/) is a people-oriented software development agency.
 
-Woof Software - here should be some info about us...
+Our main area of work is crypto. We see our job as finding the most effective, simple and beautiful way to solve each problem. Our goal is to exceed the expectations of our clients and employees.
 
 Projects we developed or contributed to:
-* [USDC market on Optimism network for Compound.finance](https://github.com/compound-finance/comet/pull/842): We deployed and initiated the on-chain proposal to create the first market on the Optimism market. Now, you can lend and borrow on the Optimism network using [Compound finance](https://app.compound.finance/markets/usdc-op).
+- [Deployment of Compound Finance USDC market on Optimism](https://github.com/compound-finance/comet/pull/842): We deployed and initiated the on-chain proposal to create the first market on the Optimism market. Now, you can lend and borrow on the Optimism network using Compound finance.
 
-You can find more [details on our Woof website](http://woof.software/).
+[More case studies](https://woof.software/our-works).
