@@ -5,4 +5,4 @@ Our main area of work is crypto. We see our job as finding the most effective, s
 Projects we developed or contributed to:
 - [Deployment of Compound Finance USDC market on Optimism](https://github.com/compound-finance/comet/pull/842): We deployed and initiated the on-chain proposal to create the first market on the Optimism market. Now, you can lend and borrow on the Optimism network using Compound finance.
 
-[More case studies](https://woof.software/our-works).
+[More case studies](https://woof.software/portfolio).
